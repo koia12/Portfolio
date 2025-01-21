@@ -6,4 +6,4 @@
 koia12.github.io/portfolio
 
 ## Projects
-<a href="https://github.com/koia12/Faceoffs">Faceoffs</a>
+<a href="https://github.com/koia12/Faceoffs">"Faceoffs"</a>
