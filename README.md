@@ -12,6 +12,6 @@ Retrieved data from large SQL database, performed exploratory data analysis, and
 <a href="https://github.com/koia12/Faceoffs">Faceoffs</a>
 Modeled and ranked the faceoff ability of NHL players using pairwise logistic regression, a technique for comparing covariates head-to-head.
 
-<a href="https://github.com/koia12/Faceoffs">Faceoffs</a>
+<a href="https://github.com/koia12/Faceoffs">Chicago Weather Analysis</a>
 Using Python, scraped data from the NCEI Climate Data Online for Chicago, thoroughly explored and made both static and animated visualizations
 of spatial and temporal patterns in the data
